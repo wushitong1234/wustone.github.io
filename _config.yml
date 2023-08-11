@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shitong Wu (吴诗童 STone)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Shitong Wu (吴诗童 STone)"
 description              : &description "personal description"
 url                      : https://wushitong1234.github.io/wustone.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
