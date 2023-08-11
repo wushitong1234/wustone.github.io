@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Wu Shitong"
-excerpt: "About Wu Shitong"
+title: "About me"
+excerpt: "About STone"
 author_profile: true
 redirect_from: 
   - /about/
